@@ -3,9 +3,9 @@ package createCourier;
 import org.apache.commons.lang3.RandomStringUtils;
 
 public class GenerateCourier {
-    private final String password = "password";
+    private static final String password = "password";
 
-    public Courier getCourier() {
+    public static Courier getCourier() {
         return Courier.builder()
                 .login(RandomStringUtils.randomAlphabetic(8))
                 .password(RandomStringUtils.randomAlphabetic(8))
@@ -13,21 +13,21 @@ public class GenerateCourier {
                 .build();
     }
 
-    public CourierWithoutPassword getCourierWithoutPassword() {
+    public static CourierWithoutPassword getCourierWithoutPassword() {
         return new CourierWithoutPassword(RandomStringUtils.randomAlphabetic(8));
     }
 
-    public Courier getCourierWithPasswordNull() {
+    public static Courier getCourierWithPasswordNull() {
         return Courier.builder()
                 .password(password)
                 .build();
     }
 
-    public CourierWithoutLogin getCourierWithoutLogin() {
+    public static CourierWithoutLogin getCourierWithoutLogin() {
         return new CourierWithoutLogin(password);
     }
 
-    public Courier getCourierWithLoginNull() {
+    public static Courier getCourierWithLoginNull() {
         return Courier.builder()
                 .password(password)
                 .build();
