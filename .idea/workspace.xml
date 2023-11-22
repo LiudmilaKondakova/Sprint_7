@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2fc6d719-ab8d-4a5a-9e2a-92c9edf7b504" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/recource/com/example/courier/MyComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/recource/com/example/courier/RequestApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_7.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/createCourier/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/recource/com/example/courier/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/createCourier/Courier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/recource/com/example/courier/Courier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/createCourier/CourierAuth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/recource/com/example/courier/CourierAuth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/createCourier/CourierAuthWithoutLogin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/createCourier/CourierAuthWithoutPassword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/createCourier/CourierWithoutLogin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/createCourier/CourierWithoutPassword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/createCourier/CreateCourier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/createCourier/GenerateCourier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/order/GenerateOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/order/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/recource/com/example/order/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/order/OrderSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/order/ScooterColor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/recource/com/example/order/ScooterColor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/java/BaseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/java/CreateCourierTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CreateCourierTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/java/CreateOrderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CreateOrderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/java/DeleteCourierTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DeleteCourierTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/java/GetOrderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/GetOrderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/java/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/java/OrderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/OrderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/java/Utils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/createCourier/BasePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/createCourier/Courier$CourierBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/createCourier/Courier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/createCourier/CourierAuth$CourierAuthBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/createCourier/CourierAuth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/createCourier/CourierAuthWithoutLogin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/createCourier/CourierAuthWithoutPassword.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/createCourier/CourierWithoutLogin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/createCourier/CourierWithoutPassword.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/createCourier/CreateCourier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/createCourier/GenerateCourier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/order/GenerateOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/order/Order$OrderBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/order/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/order/OrderSteps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/order/ScooterColor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/java/BaseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/java/CreateCourierTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/java/CreateOrderTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/java/DeleteCourierTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/java/GetOrderTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/java/LoginTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/java/OrderTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/java/Utils.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Tag Library Descriptor" />
+        <option value="AnnotationType" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="environmentProperties">
+      <map>
+        <entry key="JAVA_TOOL_OPTIONS" value="-Dfile.encoding=UTF8" />
+      </map>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2Y4dv8Qu6AEHi4wk2I0PBXHhMvd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit4&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/Alexa/HelloMaven/src/main/java/Sprint_7/src/test&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Alexa/HelloMaven/src/main/java/Sprint_7/src/main&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="tests" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="courier" />
+      <recent name="order" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean test" />
+      <command value="allure-results" />
+      <command value="mvn allure:serve" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.CreateCourierTest and 5 more">
+    <configuration name="CreateCourierTest and 5 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sprint_7" />
+      <option name="TEST_OBJECT" value="pattern" />
+      <patterns>
+        <pattern testClass="CreateCourierTest" />
+        <pattern testClass="CreateOrderTest" />
+        <pattern testClass="DeleteCourierTest" />
+        <pattern testClass="GetOrderTest" />
+        <pattern testClass="LoginTest" />
+        <pattern testClass="OrderTest" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateCourierTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sprint_7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CreateCourierTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateCourierTest.createCourierWithExistLogin" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="Sprint_7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CreateCourierTest" />
+      <option name="METHOD_NAME" value="createCourierWithExistLogin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sprint_7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sprint_7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OrderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderTest.getOrders" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sprint_7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OrderTest" />
+      <option name="METHOD_NAME" value="getOrders" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CreateCourierTest and 5 more" />
+        <item itemvalue="JUnit.CreateCourierTest" />
+        <item itemvalue="JUnit.LoginTest" />
+        <item itemvalue="JUnit.OrderTest" />
+        <item itemvalue="JUnit.OrderTest.getOrders" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2fc6d719-ab8d-4a5a-9e2a-92c9edf7b504" name="Changes" comment="" />
+      <created>1699789016863</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699789016863</updated>
+      <workItem from="1699789018803" duration="1166000" />
+      <workItem from="1699791015412" duration="32992000" />
+      <workItem from="1699986693194" duration="7413000" />
+      <workItem from="1700050064045" duration="10549000" />
+      <workItem from="1700070489506" duration="1367000" />
+      <workItem from="1700071966636" duration="360000" />
+      <workItem from="1700072355479" duration="241000" />
+      <workItem from="1700072628380" duration="1981000" />
+      <workItem from="1700074661710" duration="395000" />
+      <workItem from="1700392415266" duration="108000" />
+      <workItem from="1700392545707" duration="270000" />
+      <workItem from="1700392925177" duration="59230000" />
+      <workItem from="1700566259550" duration="241000" />
+      <workItem from="1700566527459" duration="20616000" />
+      <workItem from="1700600642738" duration="292000" />
+      <workItem from="1700627447707" duration="22698000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ExceptionInInitializerError" package="java.lang" />
+          <option name="timeStamp" value="24" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ClassCastException" package="java.lang" />
+          <option name="timeStamp" value="62" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/com/example/order/OrderSteps.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/com/example/order/OrderSteps.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="response" />
+        <watch expression="((RestAssuredResponseImpl)response).groovyResponse" custom="io.restassured.internal.RestAssuredResponseImpl" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

@@ -1,0 +1,11 @@
+recource\com\example\courier\BasePage.class
+recource\com\example\courier\Courier$CourierBuilder.class
+recource\com\example\courier\Courier.class
+recource\com\example\order\Order.class
+recource\com\example\order\ScooterColor.class
+recource\com\example\courier\CourierAuth.class
+recource\com\example\order\Order$OrderBuilder.class
+recource\com\example\courier\CourierAuth$CourierAuthBuilder.class
+recource\com\example\courier\RequestApi.class
+recource\com\example\courier\MyComponent.class
+recource\com\example\courier\GenerateCourier.class
