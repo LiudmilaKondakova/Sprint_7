@@ -8,18 +8,55 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2fc6d719-ab8d-4a5a-9e2a-92c9edf7b504" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/recource/com/example/courier/MyComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/recource/com/example/courier/RequestApi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/createCourier/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/createCourier/BasePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/createCourier/CreateCourier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/createCourier/CreateCourier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/createCourier/GenerateCourier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/createCourier/GenerateCourier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/order/OrderSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/order/OrderSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/java/CreateCourierTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/java/CreateCourierTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/createCourier/BasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/createCourier/BasePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/createCourier/CreateCourier.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/createCourier/CreateCourier.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/createCourier/GenerateCourier.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/createCourier/GenerateCourier.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/java/CreateCourierTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/java/CreateCourierTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/java/DeleteCourierTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/java/DeleteCourierTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/java/LoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/java/LoginTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_7.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_7.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/createCourier/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/recource/com/example/courier/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/createCourier/Courier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/recource/com/example/courier/Courier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/createCourier/CourierAuth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/recource/com/example/courier/CourierAuth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/createCourier/CourierAuthWithoutLogin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/createCourier/CourierAuthWithoutPassword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/createCourier/CourierWithoutLogin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/createCourier/CourierWithoutPassword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/createCourier/CreateCourier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/createCourier/GenerateCourier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/order/GenerateOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/order/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/recource/com/example/order/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/order/OrderSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/order/ScooterColor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/recource/com/example/order/ScooterColor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/java/BaseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/java/CreateCourierTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CreateCourierTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/java/CreateOrderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CreateOrderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/java/DeleteCourierTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DeleteCourierTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/java/GetOrderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/GetOrderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/java/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/java/OrderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/OrderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/java/Utils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/createCourier/BasePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/createCourier/Courier$CourierBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/createCourier/Courier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/createCourier/CourierAuth$CourierAuthBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/createCourier/CourierAuth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/createCourier/CourierAuthWithoutLogin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/createCourier/CourierAuthWithoutPassword.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/createCourier/CourierWithoutLogin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/createCourier/CourierWithoutPassword.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/createCourier/CreateCourier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/createCourier/GenerateCourier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/order/GenerateOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/order/Order$OrderBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/order/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/order/OrderSteps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/order/ScooterColor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/java/BaseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/java/CreateCourierTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/java/CreateOrderTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/java/DeleteCourierTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/java/GetOrderTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/java/LoginTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/java/OrderTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/java/Utils.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +71,7 @@
         <option value="AnnotationType" />
         <option value="JUnit4 Test Class" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -93,6 +131,9 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="courier" />
       <recent name="order" />
@@ -105,34 +146,27 @@
       <command value="mvn allure:serve" />
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CreateCourierTest">
-    <configuration name="CreateCourierTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.CreateCourierTest and 5 more">
+    <configuration name="CreateCourierTest and 5 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Sprint_7" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test.java" />
-      <option name="MAIN_CLASS_NAME" value="test.java.CreateCourierTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="pattern" />
+      <patterns>
+        <pattern testClass="CreateCourierTest" />
+        <pattern testClass="CreateOrderTest" />
+        <pattern testClass="DeleteCourierTest" />
+        <pattern testClass="GetOrderTest" />
+        <pattern testClass="LoginTest" />
+        <pattern testClass="OrderTest" />
+      </patterns>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreateCourierTest.createCourier" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CreateCourierTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Sprint_7" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test.java" />
-      <option name="MAIN_CLASS_NAME" value="test.java.CreateCourierTest" />
-      <option name="METHOD_NAME" value="createCourier" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CreateCourierTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -141,61 +175,41 @@
       <module name="Sprint_7" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.java.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="test.java" />
-      <option name="MAIN_CLASS_NAME" value="test.java.CreateCourierTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CreateCourierTest" />
       <option name="METHOD_NAME" value="createCourierWithExistLogin" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreateCourierTest.createCourierWithoutName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LoginTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Sprint_7" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test.java" />
-      <option name="MAIN_CLASS_NAME" value="test.java.CreateCourierTest" />
-      <option name="METHOD_NAME" value="createCourierWithoutName" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreateCourierTest.createCourierWithoutPassword" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="OrderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Sprint_7" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test.java" />
-      <option name="MAIN_CLASS_NAME" value="test.java.CreateCourierTest" />
-      <option name="METHOD_NAME" value="createCourierWithoutPassword" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OrderTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginTest.courierLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="OrderTest.getOrders" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Sprint_7" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test.java" />
-      <option name="MAIN_CLASS_NAME" value="test.java.LoginTest" />
-      <option name="METHOD_NAME" value="courierLogin" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OrderTest" />
+      <option name="METHOD_NAME" value="getOrders" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -203,11 +217,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CreateCourierTest and 5 more" />
         <item itemvalue="JUnit.CreateCourierTest" />
-        <item itemvalue="JUnit.CreateCourierTest.createCourierWithoutPassword" />
-        <item itemvalue="JUnit.CreateCourierTest.createCourierWithoutName" />
-        <item itemvalue="JUnit.CreateCourierTest.createCourier" />
-        <item itemvalue="JUnit.LoginTest.courierLogin" />
+        <item itemvalue="JUnit.LoginTest" />
+        <item itemvalue="JUnit.OrderTest" />
+        <item itemvalue="JUnit.OrderTest.getOrders" />
       </list>
     </recent_temporary>
   </component>
@@ -234,7 +248,7 @@
       <workItem from="1700566259550" duration="241000" />
       <workItem from="1700566527459" duration="20616000" />
       <workItem from="1700600642738" duration="292000" />
-      <workItem from="1700627447707" duration="3535000" />
+      <workItem from="1700627447707" duration="22698000" />
     </task>
     <servers />
   </component>
@@ -266,11 +280,6 @@
           <properties class="java.lang.ClassCastException" package="java.lang" />
           <option name="timeStamp" value="62" />
         </breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/test/java/OrderTest.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/com/example/order/OrderSteps.java</url>
           <line>39</line>
